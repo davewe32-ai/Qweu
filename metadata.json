@@ -1,0 +1,6 @@
+{
+  "name": "Gem Vault",
+  "description": "Premium secure gemstone inventory management system for Serendib Gemstones (Pvt) Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
